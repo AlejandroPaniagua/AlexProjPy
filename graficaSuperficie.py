@@ -1,3 +1,4 @@
+''' Este es un programa que crea un gráfico en 3D '''
 from pylab import arange , sin , sqrt , meshgrid , figure , cm
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib.pyplot import show
